@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PhysicsAsteroidsPlugin")]
+[assembly: AssemblyTitle("SEServerCleanup")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PhysicsAsteroidsPlugin")]
+[assembly: AssemblyProduct("SEServerCleanup")]
 [assembly: AssemblyCopyright("Copyright © Draygo 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(true)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("C0F28946-FE9B-4A42-A96E-3744987A4250")]
+[assembly: Guid("A7F7A37E-FD10-424D-A473-4A4898468088")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.1.3.5")]
-[assembly: AssemblyFileVersion("0.1.3.5")]
+[assembly: AssemblyVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.1.0.0")]
